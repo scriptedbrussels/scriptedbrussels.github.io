@@ -76,6 +76,7 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="index.html" />
+    <Content Include="paq.html" />
     <Content Include="ScriptedBrussels.jpg" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
