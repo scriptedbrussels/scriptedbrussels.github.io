@@ -1,12 +1,14 @@
 ﻿body {
     font-family: 'Roboto', sans-serif;
+    background-color: #bed8d8;
+    margin: 0px;
+    padding: 0px;
 }
 
 img {
     max-width: 40vh;
-    width: 50vw;    
+    width: 50vw;
     display: block;
-    margin-top: 1em;
     margin-left: auto;
     margin-right: auto;
 }
@@ -20,19 +22,24 @@ h2, h3 {
 
 #content {
     text-align: center;
-    max-width: 50em;
-    padding-left: 1em;
-    padding-right: 1em;
-    margin-top: 3em;
+    max-width: 55em;
+    padding-top: 1.5em;
     margin-left: auto;
     margin-right: auto;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);
+    background-color: #ffffff;
+}
+
+#invitation {
+    margin: 3em;
 }
 
 #signature {
     margin-top: 3em;
-    margin-bottom: 2em;
 }
 
 #map {
-    width: 100% !important;
+    width: 100%;
+    height: 300px;
+    border: 0px;
 }
