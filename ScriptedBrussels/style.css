@@ -30,4 +30,9 @@ h2, h3 {
 
 #signature {
     margin-top: 3em;
+    margin-bottom: 2em;
+}
+
+#map {
+    width: 100% !important;
 }
