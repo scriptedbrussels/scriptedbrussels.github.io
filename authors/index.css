@@ -1,0 +1,26 @@
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 7px solid #32909c;
+}
+
+.content {
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-bottom: 2em;
+}
+
+.author {
+    display: flex;
+    align-items: center;
+}
+
+.portrait {
+    flex: 0 1 auto;
+}
+
+.bio {
+    margin-left: 2em;
+    flex: 1;
+}
