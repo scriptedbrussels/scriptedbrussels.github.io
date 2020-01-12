@@ -7,13 +7,13 @@ img {
 }
 
 .content {
-    padding-left: 3em;
-    padding-right: 3em;
     padding-bottom: 2em;
 }
 
 .author {
     display: flex;
+    margin-left: 3em;
+    margin-right: 3em;
 }
 
 .portrait {
