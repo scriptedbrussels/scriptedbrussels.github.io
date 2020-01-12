@@ -3,6 +3,7 @@ img {
     width: 200px;
     height: 200px;
     border: 7px solid #32909c;
+    margin-top: 2em;
 }
 
 .content {
@@ -13,7 +14,6 @@ img {
 
 .author {
     display: flex;
-    align-items: center;
 }
 
 .portrait {
