@@ -9,7 +9,20 @@
     display: flex;
     justify-content: center;
     padding-top: 1.5em;
-    margin-bottom: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+#menu a {
+    color: #1E4D55;
+    text-decoration: none;
+}
+
+#menu a.active {
+    font-weight: bold;
+}
+
+#menu a:visited {
+    color: #1E4D55;
 }
 
 #menu a {
