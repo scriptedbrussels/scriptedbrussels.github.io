@@ -1,0 +1,26 @@
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 7px solid #32909c;
+    margin-top: 2em;
+}
+
+.content {
+    padding-bottom: 2em;
+}
+
+.instructor {
+    display: flex;
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+.portrait {
+    flex: 0 1 auto;
+}
+
+.bio {
+    margin-left: 2em;
+    flex: 1;
+}
